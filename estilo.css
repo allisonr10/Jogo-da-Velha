@@ -19,7 +19,7 @@ body {
 
 .jogador,
 .vencedor {
-  font-size: 32px;
+  font-size: 30px;
   margin-top: 10px;
 }
 
@@ -29,7 +29,7 @@ button {
   margin-top: 10px;
   cursor: pointer;
   width: 100px;
-  height: 50px;
+  height: 30px;
   background: #eee;
 
 }
